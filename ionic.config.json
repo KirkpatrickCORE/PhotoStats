@@ -1,0 +1,7 @@
+{
+  "name": "PhotoStats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
